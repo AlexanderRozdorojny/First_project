@@ -1,0 +1,17 @@
+Done:
+
+1) ISTQB rus
+2) Тестирование .com - Савин
+
+
+In progress:
+
+1) Software Testing - Base Course (Svyatoslav Kulikov)
+
+
+Must read:
+
+1) A_Practitioner_s_Guide_to_Software_Test_Design
+2) Канер
+3) Тестирование черного ящика Бейзер
+4) Быстрое тестирование - (Роберт Калбертсон, Крис Браун, Гэри Кобб)
